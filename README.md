@@ -7,8 +7,8 @@ This assignment demonstrates my ability to work with real-world tabular data usi
 - module09-assignment.py
 
 ## What I Practiced / Learned
-- Use Pandas for Data Analysis.
-- Create and Manipulate DataFrames.
-- Access Data Elements.
-- Perform Conditional Filtering.
-- Identify Data Quality Issues.
+- Use Pandas for Data Analysis
+- Create and Manipulate DataFrames
+- Access Data Elements
+- Perform Conditional Filtering
+- Identify Data Quality Issues
